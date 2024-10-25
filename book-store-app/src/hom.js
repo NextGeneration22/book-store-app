@@ -37,8 +37,10 @@
     ]
     let cartItems=[]
     export function moveToCart(index){
+        if(bookList[index].count>0){
            cartItems.push(bookList[index].g)
            return cartItems;
+        }
     };
 
 
