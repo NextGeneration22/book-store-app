@@ -1,0 +1,13 @@
+#bookToBuy{
+    position:absolute;
+    top:10vh;
+    left: 0;
+    right: 0;
+    height: 50vh;
+    border: 4px solid black;
+    overflow: auto;
+}
+#paymentInfo{
+    position: absolute;
+    bottom: 20vh;
+}

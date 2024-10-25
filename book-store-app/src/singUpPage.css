@@ -1,0 +1,7 @@
+#sinUp{
+  border: 2px solid green;
+  position: center;
+  width: calc(35vw + 35vh);
+  margin: auto auto;
+  background-color: #bcb2991e;
+}

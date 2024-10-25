@@ -1,0 +1,7 @@
+#logInInfo{
+    border: 2px solid green;
+    width: calc(30vw + 30vh);
+    height: calc(25vw + 25vh);
+    margin: auto auto;
+    background-color: #c4b0841a;
+}
