@@ -15,7 +15,7 @@
   right: 0;
   width: 30vw;
   height: 100vh;
-  background-image: url(./public/images/shopping_cart-removebg-preview.png) ;
+  background-image: url(/public/images/shopping_cart-removebg-preview.png) ;
   overflow: auto;
 }
 .fa-search{
